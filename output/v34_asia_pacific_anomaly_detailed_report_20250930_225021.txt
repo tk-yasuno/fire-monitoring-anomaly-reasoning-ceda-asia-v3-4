@@ -1,0 +1,401 @@
+================================================================================
+Global Fire Monitoring v3.4 Asia-Pacific - Detailed Anomaly Report
+================================================================================
+Generated: 2025-09-30 22:50:21
+Data Source: ESA Fire_cci v5.1 (Real CEDA Data)
+Algorithm: Isolation Forest
+Region: Asia-Pacific (70°E-180°E, 10°S-60°N)
+Total Anomalies Detected: 39
+
+ANOMALY GRIDS DETAILS:
+--------------------------------------------------
+
+Anomaly Grid #0:
+  Location: 12.625000°N, 106.375000°E
+  Burned Area: 539061568 km²
+  Fire Activity Index: 5847397810
+  Anomaly Score: -0.197574
+  Brightness: 376.4 K
+  FRP: 158572720.9 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #1:
+  Location: 13.125000°N, 107.125000°E
+  Burned Area: 396206240 km²
+  Fire Activity Index: 3716352354
+  Anomaly Score: -0.180479
+  Brightness: 302.6 K
+  FRP: 558512489.2 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #2:
+  Location: 13.125000°N, 107.375000°E
+  Burned Area: 375169696 km²
+  Fire Activity Index: 3386235951
+  Anomaly Score: -0.190307
+  Brightness: 388.6 K
+  FRP: 258931716.6 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #3:
+  Location: 12.875000°N, 106.375000°E
+  Burned Area: 371681504 km²
+  Fire Activity Index: 3395655047
+  Anomaly Score: -0.206505
+  Brightness: 410.3 K
+  FRP: 460198137.6 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #4:
+  Location: 12.875000°N, 106.625000°E
+  Burned Area: 371520512 km²
+  Fire Activity Index: 3955448914
+  Anomaly Score: -0.220623
+  Brightness: 413.0 K
+  FRP: 851460149.7 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #5:
+  Location: 13.125000°N, 106.875000°E
+  Burned Area: 317909504 km²
+  Fire Activity Index: 3714544700
+  Anomaly Score: -0.203606
+  Brightness: 427.8 K
+  FRP: 855273074.0 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #6:
+  Location: 13.125000°N, 106.375000°E
+  Burned Area: 289520896 km²
+  Fire Activity Index: 2380803558
+  Anomaly Score: -0.184128
+  Brightness: 302.7 K
+  FRP: 851518268.8 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #7:
+  Location: 12.625000°N, 106.625000°E
+  Burned Area: 285764352 km²
+  Fire Activity Index: 2635578563
+  Anomaly Score: -0.167893
+  Brightness: 340.1 K
+  FRP: 672461668.8 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #8:
+  Location: 13.375000°N, 106.875000°E
+  Burned Area: 280719872 km²
+  Fire Activity Index: 2386340101
+  Anomaly Score: -0.137611
+  Brightness: 360.4 K
+  FRP: 136333882.5 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #9:
+  Location: 13.375000°N, 107.125000°E
+  Burned Area: 275299744 km²
+  Fire Activity Index: 2288186254
+  Anomaly Score: -0.151024
+  Brightness: 420.5 K
+  FRP: 495064932.8 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #10:
+  Location: 13.125000°N, 106.625000°E
+  Burned Area: 274548448 km²
+  Fire Activity Index: 2974421676
+  Anomaly Score: -0.153299
+  Brightness: 357.2 K
+  FRP: 212315508.9 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #11:
+  Location: 12.375000°N, 106.625000°E
+  Burned Area: 263493520 km²
+  Fire Activity Index: 2953930143
+  Anomaly Score: -0.146623
+  Brightness: 423.1 K
+  FRP: 484999290.7 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #12:
+  Location: 13.375000°N, 106.625000°E
+  Burned Area: 240793360 km²
+  Fire Activity Index: 2401518146
+  Anomaly Score: -0.152186
+  Brightness: 426.2 K
+  FRP: 210427511.5 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #13:
+  Location: 10.625000°N, 105.875000°E
+  Burned Area: 218844512 km²
+  Fire Activity Index: 1981607466
+  Anomaly Score: -0.155939
+  Brightness: 391.4 K
+  FRP: 605180060.5 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #14:
+  Location: 12.875000°N, 106.125000°E
+  Burned Area: 199149584 km²
+  Fire Activity Index: 1745199664
+  Anomaly Score: -0.124940
+  Brightness: 372.5 K
+  FRP: 444577499.7 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #15:
+  Location: 12.875000°N, 106.875000°E
+  Burned Area: 190348576 km²
+  Fire Activity Index: 2163688570
+  Anomaly Score: -0.131815
+  Brightness: 402.2 K
+  FRP: 459258585.3 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #16:
+  Location: 13.375000°N, 107.375000°E
+  Burned Area: 172746560 km²
+  Fire Activity Index: 2046906380
+  Anomaly Score: -0.134076
+  Brightness: 424.9 K
+  FRP: 508131039.5 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #17:
+  Location: 13.625000°N, 106.375000°E
+  Burned Area: 169151040 km²
+  Fire Activity Index: 1923214850
+  Anomaly Score: -0.154617
+  Brightness: 307.7 K
+  FRP: 401940790.8 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #18:
+  Location: 10.625000°N, 105.625000°E
+  Burned Area: 165394512 km²
+  Fire Activity Index: 1503427582
+  Anomaly Score: -0.109505
+  Brightness: 406.2 K
+  FRP: 160183412.9 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #19:
+  Location: 13.125000°N, 107.625000°E
+  Burned Area: 157452128 km²
+  Fire Activity Index: 1706354778
+  Anomaly Score: -0.127381
+  Brightness: 428.9 K
+  FRP: 338042466.9 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #20:
+  Location: 14.125000°N, 106.125000°E
+  Burned Area: 156003184 km²
+  Fire Activity Index: 1859998680
+  Anomaly Score: -0.119241
+  Brightness: 431.0 K
+  FRP: 137430745.6 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #21:
+  Location: 12.375000°N, 106.375000°E
+  Burned Area: 139957456 km²
+  Fire Activity Index: 1458653726
+  Anomaly Score: -0.097397
+  Brightness: 358.3 K
+  FRP: 205537287.1 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #22:
+  Location: 12.875000°N, 107.125000°E
+  Burned Area: 132712720 km²
+  Fire Activity Index: 1175671628
+  Anomaly Score: -0.100088
+  Brightness: 379.3 K
+  FRP: 93420426.6 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #23:
+  Location: 12.625000°N, 106.125000°E
+  Burned Area: 125414328 km²
+  Fire Activity Index: 1096238697
+  Anomaly Score: -0.104387
+  Brightness: 315.2 K
+  FRP: 311037013.9 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #24:
+  Location: 13.625000°N, 106.125000°E
+  Burned Area: 114681392 km²
+  Fire Activity Index: 933550777
+  Anomaly Score: -0.060515
+  Brightness: 362.2 K
+  FRP: 230941760.2 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #25:
+  Location: 16.625000°N, 102.875000°E
+  Burned Area: 111622512 km²
+  Fire Activity Index: 1248856256
+  Anomaly Score: -0.130224
+  Brightness: 302.0 K
+  FRP: 251721017.0 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #26:
+  Location: 10.625000°N, 106.125000°E
+  Burned Area: 89673664 km²
+  Fire Activity Index: 845285710
+  Anomaly Score: -0.080781
+  Brightness: 384.6 K
+  FRP: 191718515.8 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #27:
+  Location: 12.625000°N, 105.875000°E
+  Burned Area: 83448560 km²
+  Fire Activity Index: 908231039
+  Anomaly Score: -0.084852
+  Brightness: 317.5 K
+  FRP: 21233889.0 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #28:
+  Location: 13.375000°N, 104.875000°E
+  Burned Area: 82750920 km²
+  Fire Activity Index: 742642826
+  Anomaly Score: -0.052609
+  Brightness: 418.9 K
+  FRP: 217712203.6 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #29:
+  Location: 15.375000°N, 105.875000°E
+  Burned Area: 80336008 km²
+  Fire Activity Index: 932488652
+  Anomaly Score: -0.043611
+  Brightness: 335.1 K
+  FRP: 209318802.0 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #30:
+  Location: 14.125000°N, 104.875000°E
+  Burned Area: 78457744 km²
+  Fire Activity Index: 920037391
+  Anomaly Score: -0.063060
+  Brightness: 444.0 K
+  FRP: 140418140.6 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #31:
+  Location: 13.375000°N, 106.375000°E
+  Burned Area: 77652776 km²
+  Fire Activity Index: 865349734
+  Anomaly Score: -0.045304
+  Brightness: 356.0 K
+  FRP: 59723721.4 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #32:
+  Location: 13.625000°N, 105.125000°E
+  Burned Area: 74057240 km²
+  Fire Activity Index: 719345780
+  Anomaly Score: -0.036416
+  Brightness: 328.6 K
+  FRP: 209011823.0 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #33:
+  Location: 14.875000°N, 106.125000°E
+  Burned Area: 70408048 km²
+  Fire Activity Index: 572347481
+  Anomaly Score: -0.001434
+  Brightness: 388.9 K
+  FRP: 64111173.1 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #34:
+  Location: 12.875000°N, 107.375000°E
+  Burned Area: 66275864 km²
+  Fire Activity Index: 569653982
+  Anomaly Score: -0.017285
+  Brightness: 339.9 K
+  FRP: 135434654.9 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #35:
+  Location: 13.875000°N, 104.375000°E
+  Burned Area: 60426416 km²
+  Fire Activity Index: 515332580
+  Anomaly Score: -0.044468
+  Brightness: 355.8 K
+  FRP: 179591911.7 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #37:
+  Location: 12.875000°N, 105.875000°E
+  Burned Area: 56884548 km²
+  Fire Activity Index: 571189046
+  Anomaly Score: -0.001145
+  Brightness: 374.7 K
+  FRP: 126244542.0 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #40:
+  Location: 14.125000°N, 106.375000°E
+  Burned Area: 54201316 km²
+  Fire Activity Index: 614290075
+  Anomaly Score: -0.022867
+  Brightness: 426.0 K
+  FRP: 67721658.5 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia
+
+Anomaly Grid #42:
+  Location: 12.625000°N, 106.875000°E
+  Burned Area: 50605784 km²
+  Fire Activity Index: 594309468
+  Anomaly Score: -0.011356
+  Brightness: 367.8 K
+  FRP: 97118199.4 MW
+  Risk Level: CRITICAL
+  Sub-region: Southeast Asia

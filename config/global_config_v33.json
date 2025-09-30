@@ -1,0 +1,61 @@
+{
+  "system": {
+    "name": "Global Fire Monitoring and Anomaly Reasoning System",
+    "version": "3.3",
+    "description": "Enhanced fire monitoring with anomaly detection and AI reasoning",
+    "author": "Takahiro Yasuno",
+    "created_date": "2025-09-30"
+  },
+  "anomaly_detection": {
+    "algorithm": "isolation_forest",
+    "contamination": 0.1,
+    "n_estimators": 100,
+    "random_state": 42,
+    "bootstrap": false,
+    "max_features": 1.0,
+    "n_jobs": -1
+  },
+  "reasoning": {
+    "model": "minicpm",
+    "model_path": "openbmb/MiniCPM-Llama3-V-2_5",
+    "max_tokens": 512,
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "enable_reasoning": true,
+    "reasoning_depth": "detailed"
+  },
+  "data_processing": {
+    "min_samples_per_continent": 2000,
+    "total_samples": 12500,
+    "feature_dimensions": 24,
+    "enable_v32_integration": true,
+    "simulation_fallback": true
+  },
+  "visualization": {
+    "anomaly_threshold": 0.1,
+    "color_scheme": "viridis",
+    "figure_size": [18, 12],
+    "dpi": 300,
+    "japanese_font": "Yu Gothic",
+    "save_format": "png"
+  },
+  "output": {
+    "base_directory": "output",
+    "log_directory": "logs",
+    "enable_json_export": true,
+    "enable_csv_export": true,
+    "compression": false
+  },
+  "performance": {
+    "memory_limit_gb": 16,
+    "parallel_processing": true,
+    "chunk_size": 1000,
+    "cache_intermediate_results": true
+  },
+  "alerts": {
+    "critical_anomaly_threshold": 15.0,
+    "high_risk_threshold": 8.0,
+    "enable_email_alerts": false,
+    "alert_recipients": []
+  }
+}

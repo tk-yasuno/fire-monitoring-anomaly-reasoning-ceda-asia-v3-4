@@ -1,0 +1,137 @@
+# Fire Monitoring Anomaly Reasoning CEDA Africa v3.3 - .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Data files (keep structure, ignore content)
+data/*.nc
+data/*.netcdf
+data/*.hdf
+data/cache/
+data/temp/
+
+# Large output files
+output/*.png
+output/*.jpg
+output/*.pdf
+output/large_analysis_*
+logs/*.log
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+
+# API keys and secrets
+.env
+config/secrets.json
+config/api_keys.json
+
+# Large analysis outputs (>10MB)
+output/*_large_*
+output/*_full_*
+
+# System files
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage
+.nyc_output/
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.test
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
